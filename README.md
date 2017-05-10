@@ -1,25 +1,12 @@
-# Freelancer
+# Freelancer | [Proyecto Finalizado](https://fiorellaqa.github.io/Freelancer/)
 
-Para trabajar en este proyecto, primero deberás clonarlo:
+Proyecto de la lección 30 - Flexbox
 
-```sh
-git clone https://gitlab.com/laboratoria/freelancer.git
-```
+##Caracteristicas
 
-Luego, para poder trabajar en él y enlazarlo con nuestro repositorio, deberemos ingresar a la carpeta descargada y borrar el .git que nos trae por defecto (tener cuidado con el segundo comando, asegurarse de que esté bien escrito):
+* Barra de navegación fixed y efecto de scroll.
+* Portada de presentación.
+* Sección de portafolio usando el sistema de grillas.
+* Sectión About, Contact y Footer.
 
-```sh
-cd freelancer
-rm -rf .git
-```
-
-Por último, una vez creado tu repositorio en Github, simplemente inicializar Git y agregar tu remoto:
-
-```sh
-git init
-git remote add origin htttps://github.com/<usuario>/<nombre-repositorio>.git
-```
-
-Con estos pasos ya puedes seguir tu workflow de siempre haciendo commits y pusheando a tu repositorio remoto :)
-
-`Recuerda`: Este proyecto consiste en replicar este [website](https://blackrockdigital.github.io/startbootstrap-freelancer/).
+El proyecto consiste en replicar este [website](https://blackrockdigital.github.io/startbootstrap-freelancer/).
